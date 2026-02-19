@@ -51,9 +51,9 @@ JWT | REST APIs | MVC Architecture | Git | GitHub
 ---
 
 ## 📫 Connect With Me
-- 📧 Email: your-email@gmail.com
-- 💼 LinkedIn: Add your LinkedIn link here
-- 🌐 Portfolio: Add your portfolio link here
+- 📧 Email: 2784alok@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/alok-kumar2505
+
 
 ---
 
