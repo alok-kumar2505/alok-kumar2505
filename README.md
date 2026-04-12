@@ -78,18 +78,23 @@ I'm a passionate **Full-Stack Developer from India**, focused on crafting scalab
 
 <div align="center">
 
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alok-kumar2505&theme=radical" alt="Profile Details" width="100%" />
+
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=alok-kumar2505&show_icons=true&theme=radical&rank_icon=github&hide_border=true&bg_color=0d1117&title_color=F97316&icon_color=F97316&text_color=ffffff" alt="GitHub Stats" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=alok-kumar2505&theme=radical" alt="GitHub Stats" />
     </td>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alok-kumar2505&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=F97316&text_color=ffffff" alt="Top Languages" />
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=alok-kumar2505&theme=radical" alt="Top Languages by Repo" />
+    </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=alok-kumar2505&theme=radical" alt="Top Languages by Commit" />
     </td>
   </tr>
 </table>
 
-<img src="https://streak-stats.demolab.com?user=alok-kumar2505&theme=radical&hide_border=true&background=0d1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=alok-kumar2505&theme=radical&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316" alt="GitHub Streak" />
 
 </div>
 
